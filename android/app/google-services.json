@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "399936801836",
+    "project_id": "battery-3fd5b",
+    "storage_bucket": "battery-3fd5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399936801836:android:4ded30bbd8d10e74991589",
+        "android_client_info": {
+          "package_name": "com.example.battery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399936801836-1apm45kt66dtl1qbjap8jekq9ndhvn3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_57an51_h00F0KWOfrpengDSYgeRxYy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399936801836-1apm45kt66dtl1qbjap8jekq9ndhvn3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399936801836-sqvimkgsbskrfcn311q6fer1koh62m6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.battery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
