@@ -5,7 +5,6 @@ import 'package:geolocator/geolocator.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 import '../data/list_gasStation.dart';
-import '../models/gasStation.dart';
 import '../widgets/scale_layer_plugin_option.dart';
 import '../widgets/custom_search_bar.dart';
 import '../widgets/zoombuttons_plugin_option.dart';
