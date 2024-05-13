@@ -1,4 +1,4 @@
-# battery
+# SwapCharge
 
 A new Flutter project.
 
